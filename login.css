@@ -1,0 +1,14 @@
+body{
+    background-image: url(bg4.jpg);
+    background-size: 1350px 700px;
+}
+form{
+    margin-right: 50px;
+    margin-top: 350px; 
+}
+label{
+    color:black;
+}
+h1{
+    color: black;
+}
